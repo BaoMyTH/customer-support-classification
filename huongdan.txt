@@ -1,0 +1,9 @@
+git pull origin main   # kéo bản mới nhất về
+cp file_cua_toi.csv data_raw/   # copy file vào thư mục
+git add data_raw/file_cua_toi.csv
+git commit -m "Add raw data của [Tên]"
+git push origin main
+
+Mỗi thành viên đặt tên theo dạng:
+data_raw/memberX_shopee.csv
+data_raw/memberY_tiki.csv
