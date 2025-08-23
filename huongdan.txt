@@ -7,3 +7,12 @@ git push origin main
 Mỗi thành viên đặt tên theo dạng:
 data_raw/memberX_shopee.csv
 data_raw/memberY_tiki.csv
+
+
+
+
+*note cho bài toán : 
+Tầng 1: phân loại 8 nhãn chính.
+
+Tầng 2: nếu nhãn là nhãn không yêu cầu hỗ trợ → chạy thêm 1 model nhỏ phân loại POS/NEG.
+
