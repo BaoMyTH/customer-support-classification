@@ -1,0 +1,197 @@
+TicketID,UserName,Request,Category,Priority,TimeStamp
+DTBH001,namphuong,sp loi,DoiTra,High,2025-10-01
+DTBH002,huyen_anh,mat pkien,Bao hanh,Med,2025/10/02 13:20
+DTBH003,phuong.vo,sai mo ta,Return,L,2025.10.03
+DTBH004,user123,ko bthg,Đổi Trả,Medium,03-10-2025
+DTBH005,kimtuyen,hang vo,doi-tra,Urgent,2025-10-05
+DTBH006,ANHTUAN,ko hoat dong,BaoHanh,H,2025/10/06 09:15
+DTBH007,linhpham,wrong item,DoiTra,U,2025.10.07
+DTBH008,trangvo,sp hong,DoiTraBaoHanh,Low,08-10-2025
+DTBH009,ngocanh,loi ky thuat,Đổi Trả,Med,2025-10-09
+DTBH010,namphuong,muon doi sp,Bảo Hành,High,2025/10/10 17:30
+DTBH011,huyen_anh,fail operate,DoiTra,Medium,2025.10.11
+DTBH012,phuong.vo,hang vo,DoiTra,L,12-10-2025
+DTBH013,,ko dung nhu qc,Return,H,2025-10-13
+DTBH014,kimtuyen,missing accessory,Bao hanh,U,2025/10/14 08:00
+DTBH015,user123,het hsd,Đổi Trả,Med,2025-10-15
+DTBH016,linhpham,damaged on ship,BaoHanh,High,2025.10.16
+DTBH017,ngocanh,sp loi,DoiTraBaoHanh,U,17-10-2025
+DTBH018,trangvo,loi ky thuat,Đổi Trả,L,2025-10-18
+DTBH019,ANHTUAN,mat pkien,Bao hanh,Med,2025/10/19 10:45
+DTBH020,huyen_anh,sai mo ta,DoiTra,H,2025.10.20
+DTBH021,namphuong,sp hong,Return,Low,21-10-2025
+DTBH022,user123,ko hoat dong,BaoHanh,Med,2025-10-22
+DTBH023,kimtuyen,wrong item,DoiTraBaoHanh,High,2025/10/23 15:20
+DTBH024,phuong.vo,ko bthg,Bảo Hành,Urgent,2025.10.24
+DTBH025,,muon doi sp,Đổi Trả,L,25-10-2025
+DTBH026,trangvo,hang vo,DoiTra,Medium,2025/10/26 12:00
+DTBH027,linhpham,loi ky thuat,Bao hanh,H,2025-10-27
+DTBH028,ANHTUAN,sp loi,DoiTra,U,28-10-2025
+DTBH029,namphuong,fail operate,Return,Med,2025.10.29
+DTBH030,ngocanh,mat pkien,Bảo Hành,Low,30-10-2025
+DTBH031,huyen_anh,het hsd,doi-tra,High,2025-10-01
+DTBH032,user123,damaged on ship,DoiTraBaoHanh,H,2025/10/02 18:25
+DTBH033,kimtuyen,sp loi,Đổi Trả,Medium,2025-10-03
+DTBH034,phuong.vo,wrong item,Bao hanh,Urgent,2025.10.04
+DTBH035,,ko can nua,Return,L,05-10-2025
+DTBH036,trangvo,sai mo ta,DoiTra,H,2025/10/06 08:50
+DTBH037,linhpham,sp hong,BaoHanh,Med,2025.10.07
+DTBH038,namphuong,mat pkien,DoiTra,U,08-10-2025
+DTBH039,ngocanh,loi ky thuat,Bảo Hành,Low,2025-10-09
+DTBH040,ANHTUAN,hang vo,DoiTraBaoHanh,High,2025/10/10 20:10
+DTBH041,huyen_anh,ko bthg,Đổi Trả,Med,2025-10-11
+DTBH042,kimtuyen,wrong item,DoiTra,L,2025.10.12
+DTBH043,phuong.vo,ko hoat dong,Bao hanh,H,13-10-2025
+DTBH044,user123,sp loi,DoiTra,Medium,2025/10/14 09:00
+DTBH045,,ko dung nhu qc,Return,U,2025.10.15
+DTBH046,trangvo,missing accessory,Đổi Trả,Low,16-10-2025
+DTBH047,linhpham,hang vo,BaoHanh,High,2025/10/17 11:15
+DTBH048,namphuong,fail operate,DoiTra,Med,2025-10-18
+DTBH049,ngocanh,het hsd,Bảo Hành,H,2025.10.19
+DTBH050,ANHTUAN,muon doi sp,DoiTraBaoHanh,U,20-10-2025
+DTBH051,kimtuyen,ko hoat dong,DoiTra,High,2025-10-21
+DTBH052,phuong.vo,wrong itm,Bao hanh,Med,22-10-2025
+DTBH053,user123,hang bi vo,Return,L,2025/10/23 14:05
+DTBH054,namphuong,mat pkien,DoiTraBaoHanh,U,2025.10.24
+DTBH055,linhpham,sai mtả,Đổi Trả,Medium,25-10-2025
+DTBH056,trangvo,ko bthg,BaoHanh,Low,2025/10/26 09:45
+DTBH057,ANHTUAN,het hsd,DoiTra,H,2025.10.27
+DTBH058,huyen_anh,ko dung nhu qc,Bao hanh,Urgent,28-10-2025
+DTBH059,,sp hong,DoiTra,L,2025-10-29
+DTBH060,ngocanh,loi ky thuat,Bảo Hành,High,30-10-2025
+DTBH061,user123,muon doi sp,DoiTraBaoHanh,Med,2025/10/01 19:10
+DTBH062,phuong.vo,missing acc,DoiTra,H,2025.10.02
+DTBH063,trangvo,damaged ship,Bao hanh,L,03-10-2025
+DTBH064,namphuong,sp loi,Return,Medium,2025-10-04
+DTBH065,huyen_anh,fail operate,DoiTra,Low,2025/10/05 08:30
+DTBH066,linhpham,hang lỗi,BaoHanh,H,2025.10.06
+DTBH067,ANHTUAN,ko hoat dong,DoiTraBaoHanh,U,07-10-2025
+DTBH068,kimtuyen,mat pkien,Bao hanh,Med,2025-10-08
+DTBH069,ngocanh,ko bthg,DoiTra,L,2025.10.09
+DTBH070,,sp hong,Bảo Hành,High,10-10-2025
+DTBH071,user123,sai mo ta,DoiTraBaoHanh,Med,2025/10/11 11:40
+DTBH072,trangvo,hang vo,DoiTra,H,2025.10.12
+DTBH073,namphuong,wrong item,Bao hanh,Urgent,13-10-2025
+DTBH074,phuong.vo,ko dung qc,Đổi Trả,Low,2025-10-14
+DTBH075,linhpham,fail operate,Return,Med,2025/10/15 13:55
+DTBH076,ANHTUAN,het hsd,DoiTraBaoHanh,U,2025.10.16
+DTBH077,kimtuyen,missing accessory,BaoHanh,High,17-10-2025
+DTBH078,huyen_anh,sp hong,DoiTra,Medium,2025-10-18
+DTBH079,ngocanh,loi ky thuat,Bao hanh,L,2025/10/19 09:25
+DTBH080,,ko can nua,DoiTra,H,20-10-2025
+DTBH081,trangvo,mat pkien,Bảo Hành,Urgent,2025.10.21
+DTBH082,namphuong,hang vo,DoiTra,Low,22-10-2025
+DTBH083,phuong.vo,sp loi,Return,Med,2025/10/23 17:00
+DTBH084,user123,ko hoat dong,DoiTraBaoHanh,H,2025.10.24
+DTBH085,kimtuyen,damaged ship,Bao hanh,L,25-10-2025
+DTBH086,linhpham,muon doi sp,DoiTra,Medium,2025/10/26 08:05
+DTBH087,huyen_anh,wrong item,Bảo Hành,U,2025.10.27
+DTBH088,ANHTUAN,loi ky thuat,DoiTraBaoHanh,High,28-10-2025
+DTBH089,trangvo,het hsd,DoiTra,Med,29-10-2025
+DTBH090,,ko dung nhu qc,Bao hanh,L,2025/10/30 22:00
+DTBH091,ngocanh,fail operate,Đổi Trả,Urgent,2025.10.01
+DTBH092,namphuong,hang vo,DoiTra,H,02-10-2025
+DTBH093,user123,mat pkien,BaoHanh,Low,2025-10-03
+DTBH094,phuong.vo,ko bthg,Return,Medium,2025/10/04 15:45
+DTBH095,kimtuyen,sp hong,DoiTraBaoHanh,H,2025.10.05
+DTBH096,linhpham,missing accesso
+DTBH101,namphuong,ko hd,DoiTra,H,2025/10/11
+DTBH102,linhpham,hỏng màn hình,Bao hanh,Low,12-10-2025
+DTBH103,phuong.vo,wrong itm,DoiTraBaoHanh,Med,2025.10.13
+DTBH104,,ko dung qc,Return,Urgent,14-10-2025
+DTBH105,kimtuyen,sp bể,Đổi Trả,Medium,2025/10/15 16:20
+DTBH106,ANHTUAN,ko khoi dong,BaoHanh,H,16.10.2025
+DTBH107,huyen_anh,het hsd,DoiTraBaoHanh,L,2025-10-17
+DTBH108,trangvo,fail operate,DoiTra,Med,18-10-2025
+DTBH109,user123,mat pk,Bảo Hành,U,2025/10/19
+DTBH110,ngocanh,ko bthg,DoiTra,Medium,20.10.2025
+DTBH111,namphuong,hang vo,Bao hanh,H,2025-10-21
+DTBH112,linhpham,ko hd,Return,Low,22/10/2025 09:10
+DTBH113,,loi sp,DoiTraBaoHanh,Med,2025.10.23
+DTBH114,kimtuyen,sai mta,Đổi Trả,U,24-10-2025
+DTBH115,trangvo,wrong item,BaoHanh,Medium,2025/10/25
+DTBH116,huyen_anh,ko dung qc,DoiTra,H,2025.10.26
+DTBH117,ANHTUAN,sp hong,Bao hanh,L,27-10-2025
+DTBH118,phuong.vo,hang loi,DoiTraBaoHanh,H,2025/10/28 12:45
+DTBH119,user123,damaged ship,Return,Med,29-10-2025
+DTBH120,namphuong,ko bthg,DoiTra,U,30.10.2025
+DTBH121,linhpham,fail op,Bảo Hành,Medium,2025-10-01
+DTBH122,ngocanh,het hsd,DoiTraBaoHanh,H,2025/10/02
+DTBH123,,muon doi sp,DoiTra,L,03-10-2025
+DTBH124,huyen_anh,ko hoat động,BaoHanh,Med,2025.10.04
+DTBH125,kimtuyen,sp vo,Đổi Trả,H,2025-10-05
+DTBH126,trangvo,mat pkien,Bao hanh,U,2025/10/06
+DTBH127,namphuong,ko dung qc,DoiTraBaoHanh,Low,2025.10.07
+DTBH128,phuong.vo,wrong item,DoiTra,Medium,08-10-2025
+DTBH129,user123,sp loi,Bảo Hành,H,09-10-2025
+DTBH130,,hang hong,Return,Med,2025/10/10
+DTBH131,linhpham,loi sp,DoiTraBaoHanh,U,2025.10.11
+DTBH132,ANHTUAN,fail operate,Bao hanh,Med,12-10-2025
+DTBH133,huyen_anh,ko bthg,Đổi Trả,L,2025-10-13
+DTBH134,trangvo,het hsd,DoiTra,H,14.10.2025
+DTBH135,kimtuyen,sp loi,BaoHanh,Medium,2025/10/15
+DTBH136,namphuong,ko hoat dong,DoiTraBaoHanh,U,16-10-2025
+DTBH137,user123,mat pk,Bao hanh,Low,2025.10.17
+DTBH138,phuong.vo,ko dung qc,DoiTra,H,2025/10/18
+DTBH139,linhpham,wrong itm,Return,Med,19-10-2025
+DTBH140,,hang vo,DoiTraBaoHanh,U,2025.10.20
+DTBH141,ngocanh,sp hong,Bảo Hành,High,21-10-2025
+DTBH142,trangvo,ko bthg,DoiTra,Medium,2025-10-22
+DTBH143,huyen_anh,fail operate,Bao hanh,L,2025.10.23
+DTBH144,kimtuyen,hang loi,DoiTraBaoHanh,Urg,2025/10/24
+DTBH145,ANHTUAN,ko dung qc,Đổi Trả,Medium,25-10-2025
+DTBH146,,sp loi,BaoHanh,H,26.10.2025
+DTBH147,namphuong,wrong item,DoiTra,Med,2025/10/27
+DTBH148,linhpham,ko hd,Bảo Hành,Low,28-10-2025
+DTBH149,user123,hang vo,DoiTraBaoHanh,H,2025.10.29
+DTBH150,phuong.vo,ko dung qc,Return,Medium,30-10-2025
+DTBH151,ngocanh,ko hoat dong,DoiTra,Med,2025/10/11
+DTBH152,huyen_anh,sp loi,Bao hanh,H,12.10.2025
+DTBH153,linhpham,wrong itm,DoiTraBaoHanh,L,13-10-2025
+DTBH154,kimtuyen,ko dung qc,Return,Med,2025/10/14
+DTBH155,,hang vo,DoiTra,High,15-10-2025
+DTBH156,trangvo,mat pk,Bảo Hành,U,2025.10.16
+DTBH157,namphuong,ko bthg,DoiTraBaoHanh,Med,2025-10-17
+DTBH158,phuong.vo,sp hong,Đổi Trả,L,18/10/2025
+DTBH159,user123,fail operate,BaoHanh,H,19-10-2025
+DTBH160,ANHTUAN,het hsd,DoiTra,Med,20.10.2025
+DTBH161,linhpham,ko hd,Bao hanh,U,2025-10-21
+DTBH162,,damaged ship,DoiTraBaoHanh,Medium,22-10-2025
+DTBH163,kimtuyen,hang loi,Return,H,23/10/2025
+DTBH164,trangvo,ko dung qc,DoiTra,L,24.10.2025
+DTBH165,ngocanh,sp loi,Bảo Hành,Medium,25-10-2025
+DTBH166,huyen_anh,mat pkien,DoiTraBaoHanh,H,2025.10.26
+DTBH167,phuong.vo,ko bthg,DoiTra,L,27-10-2025
+DTBH168,user123,fail op,BaoHanh,Med,28-10-2025
+DTBH169,namphuong,wrong itm,Đổi Trả,U,29/10/2025
+DTBH170,,hang vo,DoiTraBaoHanh,H,30-10-2025
+DTBH171,linhpham,ko hd,Bao hanh,Medium,2025.10.01
+DTBH172,trangvo,sp hong,DoiTra,H,02-10-2025
+DTBH173,kimtuyen,mat pk,Bảo Hành,L,2025/10/03
+DTBH174,huyen_anh,ko dung qc,DoiTraBaoHanh,Med,04-10-2025
+DTBH175,phuong.vo,fail operate,Return,H,2025.10.05
+DTBH176,ANHTUAN,sp hong,DoiTra,L,06-10-2025
+DTBH177,,hang loi,Bao hanh,Med,07/10/2025
+DTBH178,namphuong,ko bthg,DoiTraBaoHanh,U,08-10-2025
+DTBH179,user123,wrong itm,DoiTra,Medium,2025.10.09
+DTBH180,ngocanh,ko hoat dong,Bảo Hành,H,10-10-2025
+DTBH181,linhpham,sp hong,Đổi Trả,L,2025/10/11
+DTBH182,kimtuyen,damaged ship,BaoHanh,Med,12.10.2025
+DTBH183,phuong.vo,ko dung qc,DoiTra,H,2025-10-13
+DTBH184,,het hsd,Bao hanh,Medium,14-10-2025
+DTBH185,namphuong,loi sp,DoiTraBaoHanh,L,2025/10/15
+DTBH186,trangvo,ko bthg,DoiTra,H,16-10-2025
+DTBH187,huyen_anh,wrong itm,Bảo Hành,Med,17.10.2025
+DTBH188,user123,sp hong,DoiTraBaoHanh,H,18-10-2025
+DTBH189,ANHTUAN,ko hd,Đổi Trả,Medium,19/10/2025
+DTBH190,kimtuyen,hang loi,BaoHanh,L,20-10-2025
+DTBH191,ngocanh,mat pkien,DoiTraBaoHanh,H,2025.10.21
+DTBH192,,ko hoat dong,Return,Med,22-10-2025
+DTBH193,linhpham,sp vo,DoiTra,H,23-10-2025
+DTBH194,phuong.vo,ko dung qc,Bảo Hành,L,2025/10/24
+DTBH195,trangvo,fail operate,DoiTraBaoHanh,Med,25.10.2025
+DTBH196,huyen_anh,sp hong,DoiTra,H,26-10-2025
+DTBH197,user123,hang loi,Bao hanh,L,27-10-2025
+DTBH198,namphuong,wrong itm,DoiTraBaoHanh,U,28.10.2025
+DTBH199,kimtuyen,ko bthg,Đổi Trả,Medium,29/10/2025
+DTBH200,ANHTUAN,loi ky thuat,BaoHanh,H,30-10-2025
