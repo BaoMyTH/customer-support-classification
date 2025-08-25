@@ -1,0 +1,201 @@
+﻿id,ten_chuong_trinh,mo_ta,giam_gia,ngay_bat_dau,ngay_ket_thuc,dieu_kien,label
+1,Khuyenmai 20,Ưu đãi lên tói 50%,53.0,2024-01-03,2023-05-18,Không áp dụng KM khác,Lớn (>=50%)
+2,Discount 42,Hot deal,53.0,2025-10-12,2024-10-16,Chỉ áp dụng online,Lớn (>=50%)
+3,Promo 44,Sale off,44.0,2025-09-12,2025-07-24,Chỉ áp dụng online,Trung bình (20-49%)
+4,Khuyen Mai 22,Giam gia dac biet,,2025-11-18,2024-08-01,Áp dụng toàn quốc,Unknown
+5,Khuyen Mai 15,Ưu đãi lên tói 50%,,2025-07-01,2023-07-16,Áp dụng toàn quốc,Unknown
+6,Khuyen Mai 27,Ưu đãi lên tói 50%,,2024-01-12,2023-03-06,Áp dụng toàn quốc,Unknown
+7,Promo 2,Ưu đãi lên tói 50%,38.0,2023-11-19,2025-08-04,Áp dụng toàn quốc,Trung bình (20-49%)
+8,Discount 25,Ưu đãi lên tói 50%,18.0,2024-10-31,2024-12-12,Áp dụng toàn quốc,Nhỏ (<20%)
+9,Khuyenmai 27,Không có mô tả,70.0,2023-08-24,2024-07-09,Không áp dụng KM khác,Lớn (>=50%)
+10,Uu Dai 29,Giam gia dac biet,,2023-06-21,,Không áp dụng KM khác,Unknown
+11,Uu Dai 24,Hot deal,,2024-08-11,2025-08-12,Áp dụng toàn quốc,Unknown
+12,Khuyen Mai 33,Không có mô tả,,2025-05-17,2025-01-13,Không có điều kiện,Unknown
+13,Discount 35,Khách hàng vip,,,2025-03-16,Áp dụng toàn quốc,Unknown
+14,Uu Dai 2,Sale off,44.0,2024-08-28,,Không áp dụng KM khác,Trung bình (20-49%)
+15,Promo 2,Không có mô tả,39.0,2023-05-13,2025-03-05,Áp dụng toàn quốc,Trung bình (20-49%)
+16,Uu Dai 30,Ưu đãi lên tói 50%,24.0,2024-08-08,,Chỉ áp dụng online,Trung bình (20-49%)
+17,Khuyenmai 32,Hot deal,,2024-10-27,,Không có điều kiện,Unknown
+18,Promo 28,Hot deal,,2025-08-18,2025-08-25,Không áp dụng KM khác,Unknown
+19,Discount 8,Khách hàng vip,17.0,2023-03-12,2023-06-21,Áp dụng toàn quốc,Nhỏ (<20%)
+20,Giảm Giá 3,Sale off,23.0,2025-07-02,2023-03-10,Không có điều kiện,Trung bình (20-49%)
+21,Promo 48,Hot deal,,2023-08-11,2024-08-31,Chỉ áp dụng online,Unknown
+22,Khuyen Mai 32,Giam gia dac biet,5.0,2024-04-18,2025-10-03,Không có điều kiện,Nhỏ (<20%)
+23,Promo 48,Hot deal,43.0,2023-01-03,2024-01-21,Không áp dụng KM khác,Trung bình (20-49%)
+24,Giảm Giá 29,Sale off,54.0,2025-06-24,2024-09-24,Áp dụng toàn quốc,Lớn (>=50%)
+25,Khuyenmai 32,Giam gia dac biet,9.0,2023-07-09,2024-10-16,Chỉ áp dụng online,Nhỏ (<20%)
+26,Promo 11,Ưu đãi lên tói 50%,67.0,2025-08-20,2025-05-01,Chỉ áp dụng online,Lớn (>=50%)
+27,Giảm Giá 28,Hot deal,,2023-12-02,,Chỉ áp dụng online,Unknown
+28,Khuyen Mai 37,Khách hàng vip,6.0,2025-06-09,2025-11-29,Không có điều kiện,Nhỏ (<20%)
+29,Uu Dai 32,Sale off,14.0,2023-12-19,2024-07-02,Không có điều kiện,Nhỏ (<20%)
+30,Promo 36,Khách hàng vip,14.0,2023-02-28,2024-01-05,Áp dụng toàn quốc,Nhỏ (<20%)
+31,Giảm Giá 50,Giam gia dac biet,12.0,2024-09-26,2023-10-02,Chỉ áp dụng online,Nhỏ (<20%)
+32,Promo 25,Giam gia dac biet,,2024-12-17,2024-07-18,Không áp dụng KM khác,Unknown
+33,Uu Dai 41,Không có mô tả,,2024-01-21,2025-10-18,Không có điều kiện,Unknown
+34,Khuyen Mai 7,Ưu đãi lên tói 50%,38.0,2023-05-17,2025-10-10,Áp dụng toàn quốc,Trung bình (20-49%)
+35,Khuyenmai 47,Hot deal,65.0,2024-12-29,2025-06-22,Không áp dụng KM khác,Lớn (>=50%)
+36,Khuyen Mai 33,Hot deal,30.0,2024-05-14,2025-05-06,Áp dụng toàn quốc,Trung bình (20-49%)
+37,Uu Dai 39,Hot deal,,2025-08-29,2023-04-02,Không áp dụng KM khác,Unknown
+38,Promo 13,Hot deal,66.0,,2025-05-17,Chỉ áp dụng online,Lớn (>=50%)
+39,Khuyen Mai 13,Ưu đãi lên tói 50%,,2024-06-02,,Không có điều kiện,Unknown
+40,Promo 31,Hot deal,13.0,2025-11-29,2023-07-14,Chỉ áp dụng online,Nhỏ (<20%)
+41,Uu Dai 5,Khách hàng vip,,2024-09-17,2024-10-08,Áp dụng toàn quốc,Unknown
+42,Discount 22,Ưu đãi lên tói 50%,65.0,2025-07-29,2025-12-24,Không có điều kiện,Lớn (>=50%)
+43,Uu Dai 44,Giam gia dac biet,25.0,2024-02-02,2024-06-14,Chỉ áp dụng online,Trung bình (20-49%)
+44,Promo 39,Sale off,53.0,2024-11-15,2025-08-03,Không áp dụng KM khác,Lớn (>=50%)
+45,Khuyen Mai 34,Khách hàng vip,67.0,2024-08-18,2023-10-03,Không có điều kiện,Lớn (>=50%)
+46,Uu Dai 21,Không có mô tả,,2024-10-09,2025-07-25,Không áp dụng KM khác,Unknown
+47,Promo 9,Giam gia dac biet,56.0,,2023-03-29,Áp dụng toàn quốc,Lớn (>=50%)
+48,Khuyen Mai 26,Giam gia dac biet,17.0,2024-08-14,2025-07-22,Áp dụng toàn quốc,Nhỏ (<20%)
+49,Giảm Giá 38,Khách hàng vip,,,2023-05-03,Không có điều kiện,Unknown
+50,Khuyenmai 1,Không có mô tả,17.0,2023-02-23,2025-09-13,Áp dụng toàn quốc,Nhỏ (<20%)
+51,Discount 25,Sale off,,2025-04-05,2023-01-18,Áp dụng toàn quốc,Unknown
+52,Khuyenmai 10,Giam gia dac biet,44.0,2023-05-30,2023-09-26,Chỉ áp dụng online,Trung bình (20-49%)
+53,Khuyenmai 35,Khách hàng vip,28.0,2025-01-24,2024-04-14,Áp dụng toàn quốc,Trung bình (20-49%)
+54,Khuyenmai 33,Hot deal,,2024-02-03,2025-06-13,Áp dụng toàn quốc,Unknown
+55,Promo 4,Giam gia dac biet,68.0,2025-07-26,2023-10-12,Chỉ áp dụng online,Lớn (>=50%)
+56,Khuyen Mai 27,Hot deal,70.0,2024-05-04,2025-07-16,Chỉ áp dụng online,Lớn (>=50%)
+57,Khuyenmai 15,Ưu đãi lên tói 50%,23.0,2025-05-24,2023-11-06,Áp dụng toàn quốc,Trung bình (20-49%)
+58,Uu Dai 26,Ưu đãi lên tói 50%,,,2024-02-07,Không áp dụng KM khác,Unknown
+59,Discount 42,Khách hàng vip,38.0,,2023-05-04,Không áp dụng KM khác,Trung bình (20-49%)
+60,Khuyenmai 27,Khách hàng vip,64.0,2024-06-18,2024-08-15,Không có điều kiện,Lớn (>=50%)
+61,Promo 5,Hot deal,51.0,,2024-12-15,Chỉ áp dụng online,Lớn (>=50%)
+62,Uu Dai 4,Ưu đãi lên tói 50%,,2024-03-14,2023-02-22,Không có điều kiện,Unknown
+63,Promo 49,Hot deal,51.0,2023-06-17,2024-09-13,Chỉ áp dụng online,Lớn (>=50%)
+64,Uu Dai 5,Giam gia dac biet,33.0,,2025-08-11,Không có điều kiện,Trung bình (20-49%)
+65,Promo 44,Giam gia dac biet,8.0,2025-10-17,2025-07-19,Không áp dụng KM khác,Nhỏ (<20%)
+66,Uu Dai 21,Khách hàng vip,,2024-07-13,2024-12-26,Áp dụng toàn quốc,Unknown
+67,Promo 36,Khách hàng vip,69.0,2023-02-16,2025-03-18,Áp dụng toàn quốc,Lớn (>=50%)
+68,Discount 31,Khách hàng vip,,2023-02-11,2025-02-04,Áp dụng toàn quốc,Unknown
+69,Khuyen Mai 20,Không có mô tả,10.0,2024-04-18,2023-02-02,Không áp dụng KM khác,Nhỏ (<20%)
+70,Uu Dai 5,Ưu đãi lên tói 50%,8.0,2025-03-05,2023-11-04,Không áp dụng KM khác,Nhỏ (<20%)
+71,Khuyen Mai 16,Khách hàng vip,,2025-09-15,2025-06-23,Chỉ áp dụng online,Unknown
+72,Uu Dai 18,Khách hàng vip,20.0,2023-10-04,2025-03-03,Không áp dụng KM khác,Trung bình (20-49%)
+73,Khuyen Mai 14,Hot deal,,,2025-07-06,Áp dụng toàn quốc,Unknown
+74,Khuyenmai 33,Giam gia dac biet,66.0,2024-08-24,2023-05-05,Không có điều kiện,Lớn (>=50%)
+75,Discount 50,Giam gia dac biet,7.0,2023-02-07,2024-10-25,Áp dụng toàn quốc,Nhỏ (<20%)
+76,Uu Dai 43,Khách hàng vip,,,2025-07-02,Áp dụng toàn quốc,Unknown
+77,Discount 31,Khách hàng vip,59.0,2023-03-18,2024-05-24,Chỉ áp dụng online,Lớn (>=50%)
+78,Khuyenmai 13,Hot deal,8.0,2023-05-29,2024-03-08,Chỉ áp dụng online,Nhỏ (<20%)
+79,Giảm Giá 31,Sale off,61.0,2025-11-22,2024-11-08,Chỉ áp dụng online,Lớn (>=50%)
+80,Uu Dai 11,Sale off,,2024-05-09,2025-10-20,Áp dụng toàn quốc,Unknown
+81,Giảm Giá 15,Hot deal,60.0,2025-05-28,2025-02-11,Không có điều kiện,Lớn (>=50%)
+82,Khuyenmai 44,Hot deal,31.0,,2023-03-11,Chỉ áp dụng online,Trung bình (20-49%)
+83,Khuyen Mai 21,Ưu đãi lên tói 50%,46.0,,2024-03-20,Không có điều kiện,Trung bình (20-49%)
+84,Promo 37,Khách hàng vip,52.0,2023-02-28,2023-11-01,Chỉ áp dụng online,Lớn (>=50%)
+85,Khuyen Mai 49,Khách hàng vip,48.0,2023-04-29,,Không áp dụng KM khác,Trung bình (20-49%)
+86,Promo 47,Hot deal,65.0,2025-08-07,,Không có điều kiện,Lớn (>=50%)
+87,Discount 6,Hot deal,19.0,2025-10-29,2023-07-21,Không có điều kiện,Nhỏ (<20%)
+88,Promo 46,Hot deal,37.0,2024-01-14,2024-05-19,Không áp dụng KM khác,Trung bình (20-49%)
+89,Uu Dai 20,Không có mô tả,41.0,2023-06-16,2025-07-13,Áp dụng toàn quốc,Trung bình (20-49%)
+90,Promo 13,Hot deal,,2023-10-20,2025-10-28,Không có điều kiện,Unknown
+91,Giảm Giá 36,Khách hàng vip,60.0,2024-02-09,2025-05-07,Không có điều kiện,Lớn (>=50%)
+92,Discount 22,Không có mô tả,,2025-03-04,,Không có điều kiện,Unknown
+93,Uu Dai 1,Khách hàng vip,,2024-11-17,2023-10-23,Không có điều kiện,Unknown
+94,Uu Dai 15,Ưu đãi lên tói 50%,26.0,2025-12-03,2025-09-20,Không có điều kiện,Trung bình (20-49%)
+95,Khuyenmai 15,Không có mô tả,42.0,2025-12-04,2024-09-22,Không áp dụng KM khác,Trung bình (20-49%)
+96,Discount 44,Giam gia dac biet,67.0,2025-07-09,2024-10-22,Chỉ áp dụng online,Lớn (>=50%)
+97,Khuyenmai 17,Sale off,42.0,2023-12-22,2025-11-27,Không có điều kiện,Trung bình (20-49%)
+98,Uu Dai 15,Giam gia dac biet,49.0,,2025-06-27,Áp dụng toàn quốc,Trung bình (20-49%)
+99,Uu Dai 25,Giam gia dac biet,51.0,2024-09-23,2025-08-12,Chỉ áp dụng online,Lớn (>=50%)
+100,Khuyen Mai 19,Giam gia dac biet,42.0,2023-02-08,2024-04-11,Áp dụng toàn quốc,Trung bình (20-49%)
+101,Giảm Giá 25,Không có mô tả,48.0,2024-12-28,2023-12-15,Chỉ áp dụng online,Trung bình (20-49%)
+102,Khuyen Mai 42,Giam gia dac biet,49.0,2023-01-23,2023-09-21,Áp dụng toàn quốc,Trung bình (20-49%)
+103,Khuyenmai 43,Không có mô tả,53.0,2024-09-26,2023-01-12,Áp dụng toàn quốc,Lớn (>=50%)
+104,Discount 38,Không có mô tả,18.0,2025-02-25,2024-06-16,Chỉ áp dụng online,Nhỏ (<20%)
+105,Promo 20,Khách hàng vip,48.0,2024-04-10,2025-10-22,Không áp dụng KM khác,Trung bình (20-49%)
+106,Khuyen Mai 19,Sale off,66.0,2024-08-10,2023-04-24,Không áp dụng KM khác,Lớn (>=50%)
+107,Promo 12,Hot deal,,2025-12-26,,Áp dụng toàn quốc,Unknown
+108,Promo 49,Không có mô tả,22.0,2024-12-04,2024-03-07,Chỉ áp dụng online,Trung bình (20-49%)
+109,Uu Dai 19,Ưu đãi lên tói 50%,41.0,2024-09-03,2025-07-11,Áp dụng toàn quốc,Trung bình (20-49%)
+110,Uu Dai 43,Ưu đãi lên tói 50%,23.0,2024-11-11,2025-08-20,Chỉ áp dụng online,Trung bình (20-49%)
+111,Khuyen Mai 11,Ưu đãi lên tói 50%,26.0,2023-08-22,,Không áp dụng KM khác,Trung bình (20-49%)
+112,Giảm Giá 21,Ưu đãi lên tói 50%,63.0,2024-05-12,2024-01-01,Không có điều kiện,Lớn (>=50%)
+113,Khuyen Mai 24,Khách hàng vip,,2025-07-04,2024-07-08,Chỉ áp dụng online,Unknown
+114,Khuyenmai 9,Không có mô tả,21.0,2023-06-01,2024-08-19,Chỉ áp dụng online,Trung bình (20-49%)
+115,Uu Dai 16,Ưu đãi lên tói 50%,70.0,2025-03-17,2025-07-08,Không áp dụng KM khác,Lớn (>=50%)
+116,Promo 19,Không có mô tả,,2023-01-26,2025-01-10,Không có điều kiện,Unknown
+117,Uu Dai 6,Hot deal,32.0,2023-10-26,2025-10-08,Chỉ áp dụng online,Trung bình (20-49%)
+118,Promo 43,Ưu đãi lên tói 50%,,2023-09-10,2025-04-26,Không áp dụng KM khác,Unknown
+119,Discount 28,Giam gia dac biet,34.0,2024-11-02,2023-02-16,Không có điều kiện,Trung bình (20-49%)
+120,Giảm Giá 4,Khách hàng vip,40.0,2025-01-15,2024-10-05,Không áp dụng KM khác,Trung bình (20-49%)
+121,Khuyenmai 24,Không có mô tả,,2024-02-13,2025-11-14,Áp dụng toàn quốc,Unknown
+122,Giảm Giá 16,Khách hàng vip,16.0,,2023-10-09,Chỉ áp dụng online,Nhỏ (<20%)
+123,Khuyenmai 50,Ưu đãi lên tói 50%,,,2023-02-07,Áp dụng toàn quốc,Unknown
+124,Khuyenmai 30,Hot deal,30.0,2023-03-09,2025-03-24,Áp dụng toàn quốc,Trung bình (20-49%)
+125,Uu Dai 42,Khách hàng vip,,2025-02-12,2025-08-16,Chỉ áp dụng online,Unknown
+126,Khuyen Mai 1,Ưu đãi lên tói 50%,,2023-09-18,2023-07-02,Không áp dụng KM khác,Unknown
+127,Discount 13,Không có mô tả,53.0,2024-01-08,2024-09-19,Áp dụng toàn quốc,Lớn (>=50%)
+128,Promo 18,Hot deal,,2024-07-20,2024-05-15,Không có điều kiện,Unknown
+129,Khuyen Mai 21,Sale off,,2023-06-18,2023-02-03,Không áp dụng KM khác,Unknown
+130,Discount 30,Sale off,,2024-10-05,2024-09-13,Áp dụng toàn quốc,Unknown
+131,Promo 34,Sale off,,2025-01-06,2025-11-26,Không có điều kiện,Unknown
+132,Promo 45,Không có mô tả,28.0,2024-08-13,2023-05-13,Không có điều kiện,Trung bình (20-49%)
+133,Promo 46,Khách hàng vip,,2024-12-12,2025-04-06,Áp dụng toàn quốc,Unknown
+134,Giảm Giá 23,Không có mô tả,,,2023-09-02,Không áp dụng KM khác,Unknown
+135,Discount 2,Giam gia dac biet,,2025-09-12,2023-03-20,Chỉ áp dụng online,Unknown
+136,Uu Dai 45,Giam gia dac biet,51.0,2023-05-19,,Không có điều kiện,Lớn (>=50%)
+137,Khuyenmai 35,Ưu đãi lên tói 50%,,2024-02-18,2023-03-18,Chỉ áp dụng online,Unknown
+138,Uu Dai 20,Khách hàng vip,,2025-06-09,2025-12-01,Chỉ áp dụng online,Unknown
+139,Uu Dai 12,Hot deal,46.0,2025-07-16,2023-05-15,Áp dụng toàn quốc,Trung bình (20-49%)
+140,Giảm Giá 41,Không có mô tả,37.0,2023-09-02,2023-01-12,Không có điều kiện,Trung bình (20-49%)
+141,Khuyen Mai 19,Hot deal,,2023-01-06,2024-12-14,Không có điều kiện,Unknown
+142,Uu Dai 46,Giam gia dac biet,64.0,2024-02-09,2023-06-26,Không áp dụng KM khác,Lớn (>=50%)
+143,Promo 20,Ưu đãi lên tói 50%,23.0,2023-01-17,2024-05-04,Áp dụng toàn quốc,Trung bình (20-49%)
+144,Uu Dai 46,Giam gia dac biet,25.0,2023-02-02,2023-06-07,Áp dụng toàn quốc,Trung bình (20-49%)
+145,Giảm Giá 9,Sale off,50.0,2023-08-08,2023-03-26,Áp dụng toàn quốc,Lớn (>=50%)
+146,Discount 16,Không có mô tả,24.0,2023-01-14,2023-11-14,Áp dụng toàn quốc,Trung bình (20-49%)
+147,Khuyenmai 22,Giam gia dac biet,36.0,2025-09-04,2025-12-01,Chỉ áp dụng online,Trung bình (20-49%)
+148,Discount 41,Hot deal,9.0,2024-01-22,2023-07-15,Áp dụng toàn quốc,Nhỏ (<20%)
+149,Khuyenmai 17,Hot deal,11.0,2023-09-19,2023-09-22,Không có điều kiện,Nhỏ (<20%)
+150,Khuyenmai 7,Sale off,65.0,2023-10-31,2024-06-22,Chỉ áp dụng online,Lớn (>=50%)
+151,Khuyen Mai 3,Khách hàng vip,55.0,2025-12-12,2024-12-20,Không áp dụng KM khác,Lớn (>=50%)
+152,Giảm Giá 27,Hot deal,27.0,2023-08-24,2025-10-21,Không có điều kiện,Trung bình (20-49%)
+153,Discount 50,Sale off,63.0,2024-03-11,2024-05-09,Áp dụng toàn quốc,Lớn (>=50%)
+154,Promo 34,Ưu đãi lên tói 50%,25.0,,2023-12-20,Không có điều kiện,Trung bình (20-49%)
+155,Giảm Giá 50,Không có mô tả,35.0,2025-09-09,2023-01-25,Không áp dụng KM khác,Trung bình (20-49%)
+156,Promo 9,Giam gia dac biet,70.0,2024-04-23,2025-11-14,Không có điều kiện,Lớn (>=50%)
+157,Uu Dai 7,Hot deal,63.0,2023-06-08,2025-06-04,Chỉ áp dụng online,Lớn (>=50%)
+158,Discount 31,Sale off,37.0,,2024-08-08,Chỉ áp dụng online,Trung bình (20-49%)
+159,Discount 35,Khách hàng vip,,2024-06-17,2023-05-23,Không áp dụng KM khác,Unknown
+160,Khuyenmai 25,Ưu đãi lên tói 50%,48.0,2024-03-25,2023-08-25,Không áp dụng KM khác,Trung bình (20-49%)
+161,Promo 12,Sale off,25.0,2024-11-25,2025-05-09,Áp dụng toàn quốc,Trung bình (20-49%)
+162,Khuyen Mai 49,Không có mô tả,,2023-02-21,2025-06-21,Áp dụng toàn quốc,Unknown
+163,Khuyen Mai 38,Hot deal,,2025-11-30,2025-07-11,Chỉ áp dụng online,Unknown
+164,Khuyen Mai 48,Ưu đãi lên tói 50%,13.0,2024-09-16,2023-11-28,Không áp dụng KM khác,Nhỏ (<20%)
+165,Giảm Giá 27,Ưu đãi lên tói 50%,,2023-05-10,2025-12-08,Không áp dụng KM khác,Unknown
+166,Khuyen Mai 35,Không có mô tả,54.0,2023-09-12,2025-09-23,Áp dụng toàn quốc,Lớn (>=50%)
+167,Uu Dai 20,Ưu đãi lên tói 50%,,2024-11-03,2023-08-12,Chỉ áp dụng online,Unknown
+168,Uu Dai 42,Không có mô tả,56.0,2023-06-16,2023-11-09,Áp dụng toàn quốc,Lớn (>=50%)
+169,Promo 18,Giam gia dac biet,,,2025-08-18,Chỉ áp dụng online,Unknown
+170,Uu Dai 2,Hot deal,23.0,2023-05-31,2025-02-24,Không áp dụng KM khác,Trung bình (20-49%)
+171,Khuyen Mai 3,Khách hàng vip,42.0,2025-11-07,2025-02-09,Áp dụng toàn quốc,Trung bình (20-49%)
+172,Discount 49,Hot deal,32.0,,2024-10-30,Áp dụng toàn quốc,Trung bình (20-49%)
+173,Promo 11,Khách hàng vip,40.0,2023-11-21,2025-10-01,Áp dụng toàn quốc,Trung bình (20-49%)
+174,Khuyenmai 31,Khách hàng vip,47.0,2023-10-12,2023-05-30,Không có điều kiện,Trung bình (20-49%)
+175,Promo 50,Giam gia dac biet,36.0,2025-06-05,2023-06-26,Không có điều kiện,Trung bình (20-49%)
+176,Khuyenmai 6,Sale off,19.0,2024-12-09,2023-05-21,Không có điều kiện,Nhỏ (<20%)
+177,Promo 21,Ưu đãi lên tói 50%,57.0,2024-01-14,2025-09-12,Không có điều kiện,Lớn (>=50%)
+178,Giảm Giá 24,Khách hàng vip,42.0,2023-12-01,2024-11-17,Không có điều kiện,Trung bình (20-49%)
+179,Uu Dai 30,Sale off,6.0,2024-03-20,2023-05-12,Áp dụng toàn quốc,Nhỏ (<20%)
+180,Giảm Giá 2,Giam gia dac biet,7.0,2023-07-15,2025-07-12,Áp dụng toàn quốc,Nhỏ (<20%)
+181,Giảm Giá 2,Hot deal,,2024-02-08,2024-02-13,Chỉ áp dụng online,Unknown
+182,Discount 9,Không có mô tả,,2025-05-06,2024-02-03,Không áp dụng KM khác,Unknown
+183,Giảm Giá 7,Khách hàng vip,,2024-04-17,2023-12-18,Không có điều kiện,Unknown
+184,Giảm Giá 34,Không có mô tả,50.0,2023-09-09,2024-07-24,Áp dụng toàn quốc,Lớn (>=50%)
+185,Discount 47,Khách hàng vip,66.0,2024-01-23,2024-03-19,Không có điều kiện,Lớn (>=50%)
+186,Khuyenmai 42,Hot deal,,2025-01-01,2025-01-23,Không áp dụng KM khác,Unknown
+187,Uu Dai 43,Sale off,57.0,2023-06-21,2025-12-28,Áp dụng toàn quốc,Lớn (>=50%)
+188,Giảm Giá 46,Hot deal,33.0,2024-09-30,2023-06-23,Chỉ áp dụng online,Trung bình (20-49%)
+189,Giảm Giá 20,Giam gia dac biet,,2023-08-27,2024-10-06,Áp dụng toàn quốc,Unknown
+190,Uu Dai 8,Sale off,,2025-11-15,,Không áp dụng KM khác,Unknown
+191,Khuyen Mai 47,Không có mô tả,21.0,2023-08-30,2023-04-05,Áp dụng toàn quốc,Trung bình (20-49%)
+192,Promo 9,Hot deal,,2025-01-17,2024-08-24,Chỉ áp dụng online,Unknown
+193,Khuyen Mai 8,Hot deal,42.0,2023-11-13,2023-12-13,Không có điều kiện,Trung bình (20-49%)
+194,Giảm Giá 26,Khách hàng vip,29.0,2025-03-22,2024-04-08,Áp dụng toàn quốc,Trung bình (20-49%)
+195,Khuyenmai 30,Ưu đãi lên tói 50%,39.0,2023-01-19,2024-10-04,Áp dụng toàn quốc,Trung bình (20-49%)
+196,Giảm Giá 48,Giam gia dac biet,64.0,2025-11-27,2024-06-18,Chỉ áp dụng online,Lớn (>=50%)
+197,Discount 47,Khách hàng vip,,2024-05-30,2023-05-12,Không áp dụng KM khác,Unknown
+198,Khuyen Mai 38,Sale off,,2025-10-26,2025-12-31,Không áp dụng KM khác,Unknown
+199,Uu Dai 24,Hot deal,67.0,2024-07-01,2025-09-15,Không áp dụng KM khác,Lớn (>=50%)
+200,Khuyenmai 35,Sale off,50.0,2023-05-29,2023-12-28,Áp dụng toàn quốc,Lớn (>=50%)
