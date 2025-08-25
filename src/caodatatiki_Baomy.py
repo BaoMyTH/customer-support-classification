@@ -2,7 +2,7 @@ import requests
 import pandas as pd
 import time
 
-product_id = "185860447"  
+product_id = "182971940"  
 all_reviews = []
 
 for page in range(1, 11):  # Crawl 10 trang đầu
@@ -25,5 +25,5 @@ for page in range(1, 11):  # Crawl 10 trang đầu
     time.sleep(1)
 
     df = pd.DataFrame(all_reviews)
-df.to_csv("data_raw/Baomy_tiki_4.csv", index=False, encoding="utf-8-sig")
+df.to_csv("data_raw/Baomy_tiki_2.csv", index=False, encoding="utf-8-sig")
 print("Đã lưu xong!")
