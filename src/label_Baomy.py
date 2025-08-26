@@ -1,6 +1,6 @@
 import pandas as pd
 
-df = pd.read_csv(r"C:\Users\admin\Desktop\Git_p\customer-support-classification\data_raw\Baomy_tiki_5.csv")
+df = pd.read_csv(r"C:\Users\admin\Desktop\Git_p\customer-support-classification\data_raw\noisy_feedback_payment.csv")
 
 df["label"] = None   # tạo cột label rỗng
 
@@ -10,4 +10,4 @@ for i, row in df.iterrows():
     df.at[i, "label"] = label
 
 # Sau khi gắn nhãn xong, lưu lại file
-df.to_csv("data_raw/labeled_Baomy_tiki_5.csv", index=False)
+df.to_csv("data_clean/pay.csv", index=False)
